@@ -1,0 +1,48 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 543336772,
+      "email": "juan@knorr.com",
+      "empresa": "Knorr"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 543336772,
+      "email": "karen@knorr.com",
+      "empresa": "Knorr"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 637536908,
+      "email": "josue@juan.com",
+      "empresa": "Unilever"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 765883321,
+      "email": "miguel@mercadona.com",
+      "empresa": "Mercadona"
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "Lidl",
+      "email": "pedro@lidl.com",
+      "telefono": 646773862,
+      "notas": "nueva nota",
+      "id": 5
+    },
+    {
+      "nombre": "Manuel",
+      "empresa": "Meta",
+      "email": "manuel@meta.com",
+      "telefono": "877583935",
+      "notas": "meta worker",
+      "id": 6
+    }∫
+  ]
+}
